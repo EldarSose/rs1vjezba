@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 ok
 ok
-okee
-=======
+okeečččč
 tntnt
 tnttn
 tnttnt
->>>>>>> 7f6f2cb567af18ec547a4802b4edee0da355435c
+
